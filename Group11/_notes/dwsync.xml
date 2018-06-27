@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="homework.csv" server="C:/Users/user/Desktop/MIS/2014/PHP/" local="130418904690324505" remote="130418904690000000" />
+<file name="homework.csv" server="140.135.113.45//home/amber/PHP/" local="130418904690324505" remote="130419193670000000" />
+<file name="homework.csv" server="140.135.113.45" local="130418904690324505" remote="130419187510000000" />
+<file name="homework.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345473057026" remote="130476348450000000" />
+<file name="business.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345465586599" remote="130476348450000000" />
+<file name="bus_add.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345452255836" remote="130476348440000000" />
+<file name="bus_show.php" server="140.135.113.45//var/www/amber/PHP/" local="130478407454088233" remote="130478406500000000" />
+<file name="fin_add.php" server="140.135.113.45//var/www/amber/PHP/" local="130480444084329559" remote="130480443170000000" />
+<file name="fin_show.php" server="140.135.113.45//var/www/amber/PHP/" local="130479065410000000" remote="130479064540000000" />
+<file name="index.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345462386416" remote="130476348450000000" />
+<file name="bus_update.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345452075826" remote="130476348450000000" />
+<file name="fin_update.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345461576369" remote="130476348450000000" />
+<file name="fin_link.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345453715920" remote="130476348450000000" />
+<file name="cos_buy.php" server="140.135.113.45//var/www/amber/PHP/" local="130478380956362649" remote="130478380010000000" />
+<file name="cos_link.php" server="140.135.113.45//var/www/amber/PHP/" local="130478445270691219" remote="130478444310000000" />
+<file name="cos_paid.php" server="140.135.113.45//var/www/amber/PHP/" local="130478373670425918" remote="130478372800000000" />
+<file name="inventory.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345456896102" remote="130476348450000000" />
+<file name="item.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345475947191" remote="130476348450000000" />
+<file name="item1.png" server="140.135.113.45//var/www/amber/PHP/" local="130476345471506937" remote="130476348450000000" />
+<file name="item2.png" server="140.135.113.45//var/www/amber/PHP/" local="130476345455326012" remote="130476348460000000" />
+<file name="item3.png" server="140.135.113.45//var/www/amber/PHP/" local="130476345450285723" remote="130476348470000000" />
+<file name="item4.png" server="140.135.113.45//var/www/amber/PHP/" local="130476345470256866" remote="130476348470000000" />
+<file name="pro_show.php" server="140.135.113.45//var/www/amber/PHP/" local="130479061798616735" remote="130479060940000000" />
+<file name="pro_add.php" server="140.135.113.45//var/www/amber/PHP/" local="130480437650011537" remote="130480436790000000" />
+<file name="pro_update.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345457686147" remote="130476348470000000" />
+<file name="pur_show.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345451425789" remote="130476348440000000" />
+<file name="ware_show.php" server="140.135.113.45//var/www/amber/PHP/" local="130476396305054450" remote="130476395500000000" />
+<file name="cake.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345453485906" remote="130476348450000000" />
+<file name="ware_add.php" server="140.135.113.45//var/www/amber/PHP/" local="130480446072023249" remote="130480445150000000" />
+<file name="ware_update.php" server="140.135.113.45//var/www/amber/PHP/" local="130478422422264363" remote="130478421520000000" />
+<file name="purchase.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345474827127" remote="130476348440000000" />
+<file name="pur_add.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345464936561" remote="130476348440000000" />
+<file name="pur_update.php" server="140.135.113.45//var/www/amber/PHP/" local="130478422422524378" remote="130478421520000000" />
+<file name="bus_del.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345455956048" remote="130476348440000000" />
+<file name="ware_del.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345456696090" remote="130476348440000000" />
+<file name="mem_con.php" server="140.135.113.45//var/www/amber/PHP/" local="130478448171617142" remote="130478447260000000" />
+<file name="mem_log.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345460926332" remote="130476348470000000" />
+<file name="member.csv" server="140.135.113.45//var/www/amber/PHP/" local="130476345451655802" remote="130476348470000000" />
+<file name="sale_count.php" server="140.135.113.45//var/www/amber/PHP/" local="130476345470356871" remote="130476348440000000" />
+<file name="ware_chart.php" server="140.135.113.45//var/www/amber/PHP/" local="130476388686658703" remote="130476387890000000" />
+<file name="bus_chart.php" server="140.135.113.45//var/www/amber/PHP/" local="130476833668057800" remote="130476832830000000" />
+<file name="bus_search.php" server="140.135.113.45//var/www/amber/PHP/" local="130478406720336264" remote="130478405780000000" />
+</dwsync>

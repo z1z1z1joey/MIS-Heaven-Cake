@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, td, th {
+	font-size: 12px;
+}
+body {
+	background-color: #2286c2;
+}
+#leftmain {
+	width:220px;
+	height:600px;
+	margin-top: 30px;
+}
+#topBg {
+	width:220px;
+	height:30px;
+}
+#centerBg {
+	width:200px;
+	height:440px;
+	background-image:url(../images/left_body.gif);
+	padding-left: 20px;
+}
+#leftmain #centerBg dl {
+	margin: 0px;
+	padding: 0px;
+}#leftmain #centerBg dl dt a {
+	color: #144882;
+	text-decoration: none;
+	margin-left: 10px;
+}
+#leftmain #centerBg dl dd a {
+	color: #144882;
+	text-decoration: none;
+	margin-left: 10px;
+}
+#leftmain #centerBg dl dd a:hover{
+	color: #F60;
+		margin-left: 10px;
+	text-decoration: none;	
+}
+#buttomBg {
+	width:220px;
+	height:15px;
+}
